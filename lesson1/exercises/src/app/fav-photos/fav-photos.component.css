@@ -3,10 +3,13 @@ h3 {
 }
 
 img {
-   max-width: 250px;
-   max-height: 250px;
+   max-width: 100px;
+   max-height: 100px;
 }
 
 .photos {
    text-align: center;
+   border: rgb(63, 25, 112);
+   border-style: solid;
+   background-color: rgb(255, 255, 255);
 }
